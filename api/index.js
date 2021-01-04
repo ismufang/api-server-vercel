@@ -1,8 +1,4 @@
-// module.exports = (req, res) => {
-//     res.status(200).send('hello world!')
-// }
-
-export default {
-    'index': '/api/index',
-    'userInfo': '/api/userInfo'
+import apiList from '../json/index.json'
+module.exports = (req, res) => {
+    res.status(200).send(apiList)
 }

@@ -1,6 +1,4 @@
 {
-    "data": {
-        "name": "api"
-    },
-    "message": "success"
+    "index": "/api/index",
+    "userInfo": "/api/userInfo"
 }

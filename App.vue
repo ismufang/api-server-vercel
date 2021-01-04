@@ -10,7 +10,7 @@
 </template>
 
 <script>
-import apiList from './api/index.js'
+import apiList from './json/index.json'
 export default {
     name: 'App',
     data () {
