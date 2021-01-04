@@ -6,7 +6,8 @@
   "license": "MIT",
   "scripts": {
     "dev": "parcel index.html",
-    "build": "parcel build index.html"
+    "build": "parcel build index.html",
+    "test": "parcel serve index.js --global public"
   },
   "dependencies": {
     "api": "^2.5.0",
