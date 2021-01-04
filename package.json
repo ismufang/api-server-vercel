@@ -1,0 +1,21 @@
+{
+  "name": "api-server-vercel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ismufang/api-server-vercel.git",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "api": "^2.5.0",
+    "parcel-bundler": "^1.12.4",
+    "vue": "^2.6.12",
+    "vue-hot-reload-api": "^2.3.4"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^3.2.0",
+    "vue-template-compiler": "^2.6.12"
+  }
+}

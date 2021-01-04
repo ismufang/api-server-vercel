@@ -3,6 +3,6 @@
         "name": "jake",
         "age": "18",
         "intro": "he is a good boy",
-        "avatar": "/static/imgs/dog.jpg"
+        "avatar": "https://api-server-vercel.vercel.app/static/imgs/dog.jpg"
     }
 }
