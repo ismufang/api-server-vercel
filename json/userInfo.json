@@ -1,0 +1,8 @@
+{
+    "data": {
+        "name": "jake",
+        "age": "18",
+        "intro": "he is a good boy",
+        "avatar": "/static/imgs/dog.jpg"
+    }
+}
